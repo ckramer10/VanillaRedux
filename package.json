@@ -1,0 +1,23 @@
+{
+  "name": "vanillaredux",
+  "version": "1.0.0",
+  "description": "A Redux example for a medium article I wrote!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckramer10/VanillaRedux.git"
+  },
+  "author": "Case Kramer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckramer10/VanillaRedux/issues"
+  },
+  "homepage": "https://github.com/ckramer10/VanillaRedux#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
